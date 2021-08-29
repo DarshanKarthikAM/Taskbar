@@ -1,0 +1,23 @@
+.tasklist{
+    margin: 20px;
+    background-color: thistle;
+}
+.addtask{
+    margin-left: 50px;
+    padding: 10px;
+    background-color: rgb(230, 200,200)
+}
+body{
+    background-color:slategrey;
+}
+.taskitem{
+    background-color: tan;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.btn-secondary{
+    margin-right: 10px;
+}
+.cancelbtn{
+    margin-top: 10px;
+}

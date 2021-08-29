@@ -1,0 +1,15 @@
+
+.nav :link:hover{
+    background-color: rgb(228, 110, 101);
+}
+
+.notes{
+    background-color: rgb(233, 229, 180)
+}
+.accounts{
+    background-color: rgb(80, 230, 135);
+}
+.notes .box{
+    display: flex;
+    justify-content: space-evenly;
+}
